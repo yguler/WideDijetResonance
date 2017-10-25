@@ -2,6 +2,8 @@ from ROOT import *
 import ROOT,sys,os,math
 from math import *
 import numpy as np
+#Run
+#python wide_plot_gqPrime.py
 
 #from mass_plot import *
 
