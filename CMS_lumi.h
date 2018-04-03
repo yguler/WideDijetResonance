@@ -8,7 +8,7 @@
 
 void setTDRStyle (){
 
-	// CMS public style//
+	//CMS public style//
   gStyle->SetCanvasBorderMode(0);
   gStyle->SetCanvasColor(0);
   gStyle->SetCanvasDefH(600);
